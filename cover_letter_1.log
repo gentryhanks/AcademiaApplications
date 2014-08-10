@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  9 AUG 2014 12:00
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  10 AUG 2014 10:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -120,16 +120,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Here is how much of TeX's memory you used:
  682 strings out of 493633
  9686 string characters out of 3143378
- 65696 words of memory out of 3000000
+ 66696 words of memory out of 3000000
  4041 multiletter control sequences out of 15000+200000
  4591 words of font info for 17 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 23i,6n,19p,1699b,196s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 23i,6n,19p,1663b,196s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmti10.pfb>
-Output written on cover_letter_1.pdf (1 page, 58305 bytes).
+Output written on cover_letter_1.pdf (1 page, 58188 bytes).
 PDF statistics:
  20 PDF objects out of 1000 (max. 8388607)
  13 compressed objects within 1 object stream
